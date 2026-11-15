@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://ansharahyaqoob801-creator.github.io/ansharah-portfolio/">
     <img src="https://img.shields.io/badge/🌸%20EXPLORE%20MY%20PORTFOLIO-EBC9D9?style=for-the-badge&labelColor=F8EAF0&color=EBC9D9" />
   </a>
 </p>
@@ -86,7 +86,6 @@ I'm on a journey to become a **Professional Software Engineer and Full Stack Dev
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansharahyaqoob801-creator&show_icons=true&title_color=9B718D&icon_color=C58BAA&text_color=806D83&bg_color=FFF5F9&border_color=F0DCE7&hide_border=false" width="90%" />
 </p>
 
 <p align="center">
