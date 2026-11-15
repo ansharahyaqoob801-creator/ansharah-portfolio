@@ -1,57 +1,108 @@
-# 🌸 Ansharah Yaqoob | Personal Portfolio
+# 🌷 ANSHARAH YAQOOB
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F8DCE8&height=180&section=header&text=Ansharah%20Yaqoob&fontSize=45&fontColor=755568&animation=fadeIn&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F6DCE8&height=200&section=header&text=Hello,%20I'm%20Ansharah!&fontSize=42&fontColor=77546C&animation=fadeIn&fontAlignY=45&desc=Creative%20Developer%20%7C%20Future%20Software%20Engineer&descSize=16&descAlignY=68&descColor=8A7188" width="100%" />
 </p>
 
-<h3 align="center">✨ Frontend Developer | Future Software Engineer ✨</h3>
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/🌸%20EXPLORE%20MY%20PORTFOLIO-EBC9D9?style=for-the-badge&labelColor=F8EAF0&color=EBC9D9" />
+  </a>
+</p>
 
 <p align="center">
-  Creating beautiful, responsive and interactive digital experiences.
+  <i>Turning ideas into beautiful digital experiences, one line of code at a time.</i>
 </p>
 
 ---
 
-## 🎀 About Me
+## 🎀 A Little About Me
 
-Hello! I'm **Ansharah Yaqoob**, a passionate Frontend Developer from Pakistan who loves transforming creative ideas into beautiful and functional websites.
+Hey! I'm **Ansharah Yaqoob**, a passionate Frontend Developer from Pakistan.
 
-I enjoy designing modern user interfaces, exploring new technologies, and building projects that combine creativity with functionality.
+I love creating visually appealing, responsive and user-friendly websites. I enjoy experimenting with designs, learning new technologies and turning creative ideas into reality.
 
-My biggest goal is to become a **Software Engineer and Full Stack Developer, InshaAllah.** I'm continuously learning, improving my skills, and exploring new opportunities in technology.
+I'm on a journey to become a **Professional Software Engineer and Full Stack Developer, InshaAllah.** ✨
 
-## 💻 My Tech Stack
+- 🌸 Passionate about frontend development.
+- 💻 Interested in modern web technologies.
+- 🎨 Love aesthetic UI/UX and creative designs.
+- 🚀 Always exploring and learning something new.
+- 🌍 Dreaming of building impactful digital products.
 
-| Technology | Skills |
+## 🪄 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,github,vscode&theme=light" />
+</p>
+
+### 🌷 Currently Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Development-EADCF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-F8DCE8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Advanced%20JavaScript-FCE8D5?style=flat-square" />
+</p>
+
+## 💗 My Developer Journey
+
+| Area | My Focus |
 |---|---|
-| 🌷 Frontend | HTML5, CSS3, JavaScript |
-| 🎨 Frameworks | Bootstrap, jQuery |
-| 💡 Currently Learning | Backend Development, Full Stack Development |
-| 🛠️ Tools | Git, GitHub, VS Code |
-| 📱 Design | Responsive Web Design, UI Development |
+| Frontend | Responsive websites and modern interfaces |
+| Programming | JavaScript and problem-solving |
+| Design | Creative layouts and UI aesthetics |
+| Development | Building practical web applications |
+| Future Goal | Full Stack Software Engineering |
 
-## 🌸 Featured Projects
+## ☁️ Beyond Coding
 
-Here are some of my creative website projects:
+- 🎨 Exploring creative web designs.
+- 📚 Learning new programming concepts.
+- 🌐 Discovering modern website trends.
+- 💡 Experimenting with fresh ideas.
+- ✨ Improving my development skills every day.
 
-### ☁️ Pakistan Weather
-A weather website designed to explore weather information for different cities across Pakistan.
+## 🌸 My Goals
 
-🔗 **Live Demo:** [View Website](https://ansharahyaqoob801-creator.github.io/Pakistan-weather/)
+- Master modern frontend development.
+- Learn backend technologies.
+- Become a Full Stack Developer.
+- Build advanced real-world applications.
+- Become a successful Software Engineer, InshaAllah.
 
-### ☕ Chai Adda Cafe
-A warm, cozy and aesthetic cafe website featuring a menu, special offers, gallery and customer reviews.
+## 🤍 Let's Connect
 
-🔗 **Live Demo:** [View Website](https://ansharahyaqoob801-creator.github.io/chai-adda-cafe/)
+<p align="center">
+  <a href="https://github.com/ansharahyaqoob801-creator">
+    <img src="https://img.shields.io/badge/GitHub-E8DDF3?style=for-the-badge&logo=github&logoColor=715A83" />
+  </a>
+  <a href="https://linkedin.com/in/ansharah-yaqoob-5008a2434">
+    <img src="https://img.shields.io/badge/LinkedIn-F5DCE8?style=for-the-badge&logo=linkedin&logoColor=9B6380" />
+  </a>
+  <a href="mailto:ansharahyaqoob801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F8E8D9?style=for-the-badge&logo=gmail&logoColor=AE8066" />
+  </a>
+</p>
 
- ### FOR MORE EXPLORE MY PORTFOLIO 
- 🔗 **Live Demo:** [View Portfolio](https://ansharahyaqoob801-creator.github.io/ansharah-portfolio/)
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansharahyaqoob801-creator&show_icons=true&title_color=9B718D&icon_color=C58BAA&text_color=806D83&bg_color=FFF5F9&border_color=F0DCE7&hide_border=false" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ansharahyaqoob801-creator&background=FFF5F9&ring=DDAFC7&fire=C58BAA&currStreakLabel=9B718D&sideLabels=806D83&currStreakNum=9B718D&sideNums=9B718D&dates=B69EAF&border=F0DCE7" width="90%" />
+</p>
 
 ---
 
-## 🎯 My Goals
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EADCF8&height=120&section=footer" width="100%" />
+</p>
 
-- 🌸 Become a professional Software Engineer.
-- 💻 Become a Full Stack Developer.
-- 🚀 Build real-world web applications.
-- ✨ Improve my programming and problem-solving
+<p align="center">
+  🌷 <b>Dream Big. Keep Learning. Keep Building.</b> 🌷
+</p>
+
+<p align="center">
+  <i>Crafted with creativity and passion by Ansharah Yaqoob.</i>
+</p>
